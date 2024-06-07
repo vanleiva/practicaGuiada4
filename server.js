@@ -1,3 +1,6 @@
+//nombre: Vanexel David Leiva Barrientos
+//curso: desarollo de entornos III
+//year: 2024
 const http = require('http')
 
 //funcion que gestiona la respuesta del servidor
